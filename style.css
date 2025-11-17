@@ -1,0 +1,8 @@
+.col-4{
+    height: 100px;
+    background-color: blue;
+}
+
+.row{
+    gap: 20px;
+}
